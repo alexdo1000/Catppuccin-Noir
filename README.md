@@ -52,7 +52,7 @@ We've built upon this excellent theme to create a refreshed, modern take on the 
 
 ## Contributing
 
-We welcome contributions to Catppuccin Noir! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to get started.
+We welcome contributions to Catppuccin Noir! Please see our [CONTRIBUTING.md](https://github.com/alexdo1000/Catppuccin-Noir/blob/main/CONTRIBUTING.md) for more details on how to get started.
 
 ## Feedback
 
@@ -60,7 +60,7 @@ If you have any suggestions or issues, please open an issue on our [GitHub repos
 
 ## License
 
-This theme is released under the [MIT License](LICENSE).
+This theme is released under the [MIT License](https://github.com/alexdo1000/Catppuccin-Noir/blob/main/LICENSE).
 
 ---
 
