@@ -1,5 +1,7 @@
 # Catppuccin Noir: Clean Modern Dark VS Code Theme
 
+![Catppuccin Noir Banner](./assets/banner.png)
+
 Elevate your coding experience with Catppuccin Noir, a sleek and modern dark theme for Visual Studio Code. This Catppuccin-inspired color scheme combines the beloved palette with a fresh, minimalist approach for enhanced readability and reduced eye strain.
 
 ## Features
