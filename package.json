@@ -17,5 +17,9 @@
         "path": "./themes/Catppuccin Noir-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/alexdo1000/Catppuccin-Noir.git"
+	}
 }
