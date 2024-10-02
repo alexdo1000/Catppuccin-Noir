@@ -2,3 +2,4 @@ node_modules
 *.vsix
 assets/archive
 **.DS_Store
+archive/
