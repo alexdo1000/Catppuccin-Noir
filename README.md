@@ -4,6 +4,10 @@
 
 Elevate your coding experience with Catppuccin Noir, a sleek and modern dark theme for Visual Studio Code. This Catppuccin-inspired color scheme combines the beloved palette with a fresh, minimalist approach for enhanced readability and reduced eye strain.
 
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/AlexDo.catppuccin-noir)](https://marketplace.visualstudio.com/items?itemName=AlexDo.catppuccin-noir)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/AlexDo.catppuccin-noir)](https://marketplace.visualstudio.com/items?itemName=AlexDo.catppuccin-noir)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/AlexDo.catppuccin-noir)](https://marketplace.visualstudio.com/items?itemName=AlexDo.catppuccin-noir)
+
 ## Features
 
 - 🌙 Elegant dark theme optimized for long coding sessions
@@ -26,9 +30,15 @@ Elevate your coding experience with Catppuccin Noir, a sleek and modern dark the
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Catppuccin Noir**
 
+You can also install the theme directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AlexDo.catppuccin-noir).
+
 ## Customization
 
 Catppuccin Noir can be customized to your liking. Check out the [VS Code theme customization guide](https://code.visualstudio.com/api/extension-guides/color-theme) for more information.
+
+## Recommended Font
+
+For the best experience with Catppuccin Noir, we recommend using [SFMono Nerd Font Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized). This font provides excellent readability and supports ligatures, enhancing your coding experience.
 
 ## Recommended File Icons
 
@@ -64,4 +74,4 @@ This theme is released under the [MIT License](https://github.com/alexdo1000/Cat
 
 ---
 
-Embrace the perfect blend of style and functionality. Try Catppuccin Noir today and transform your VS Code interface into a sophisticated, productivity-boosting workspace.
+Embrace the perfect blend of style and functionality. Try Catppuccin Noir today and transform your VS Code interface into a sophisticated, productivity-boosting workspace. Experience the ultimate dark theme for Visual Studio Code with Catppuccin Noir – where aesthetic meets efficiency in coding.
