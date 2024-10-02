@@ -75,3 +75,7 @@ This theme is released under the [MIT License](https://github.com/alexdo1000/Cat
 ---
 
 Embrace the perfect blend of style and functionality. Try Catppuccin Noir today and transform your VS Code interface into a sophisticated, productivity-boosting workspace. Experience the ultimate dark theme for Visual Studio Code with Catppuccin Noir – where aesthetic meets efficiency in coding.
+
+## Tags
+
+catppuccin, dark theme, color theme, vs code theme, vscode, visual studio code, noir, minimal, clean, modern, aesthetic, eye-friendly, low contrast, catppuccin-inspired, productivity, coding, programming, developer tools, customization, ui theme, syntax highlighting, workspace theme, night mode, dark mode, catppuccin variant, sleek design, readability, reduced eye strain, long coding sessions, minimalist, distraction-free, high contrast, code editor theme, IDE theme, beautiful theme, popular theme, trending theme
