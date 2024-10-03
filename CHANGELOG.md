@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.7] - 2024-02-10
+
+### Changed
+
+- Increased contrast to selected text in editor and terminal
