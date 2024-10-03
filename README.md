@@ -41,6 +41,19 @@ Catppuccin Noir can be customized to your liking. Check out the [VS Code theme c
 
 For the best experience with Catppuccin Noir, we recommend using [SFMono Nerd Font Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized). This font provides excellent readability and supports ligatures, enhancing your coding experience.
 
+### How to Add the Font to Your VS Code Settings
+
+To use the recommended font with ligatures in Visual Studio Code, you can add the following configuration to your `settings.json` file:
+
+```json
+{
+    "editor.fontFamily": "Liga SFMono Nerd Font",
+    "editor.fontLigatures": true
+}
+```
+
+This will ensure that VS Code uses the SFMono Nerd Font for your editor, providing a clean and modern look, perfectly complementing the Catppuccin Noir theme.
+
 ## Recommended File Icons
 
 To complement Catppuccin Noir, we recommend using:
