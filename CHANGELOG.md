@@ -4,9 +4,10 @@ All notable changes to the "catppuccin-noir" extension will be documented in thi
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.8] - 2024-10-03
 
-- Initial release
+### Added
+- Updated README.md to include install instructions for complementary font
 
 ## [0.0.7] - 2024-02-10
 
