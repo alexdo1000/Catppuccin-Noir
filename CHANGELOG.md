@@ -9,7 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - Updated README.md to include install instructions for complementary font
 
-## [0.0.7] - 2024-02-10
+## [0.0.7] - 2024-10-02
 
 ### Changed
 
