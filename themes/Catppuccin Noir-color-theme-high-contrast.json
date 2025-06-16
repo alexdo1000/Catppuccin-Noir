@@ -896,7 +896,7 @@
 		{
 			"scope": "meta.tag",
 			"settings": {
-				"foreground": "#C6D0F5"
+				"foreground": "#c6d0f5"
 			}
 		},
 		{
@@ -938,7 +938,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#C6D0F5"
+				"foreground": "#c6d0f5"
 			}
 		},
 		{
@@ -1242,7 +1242,7 @@
 			}
 		},
 		{
-			"scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
+			"scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
 			"settings": {
 				"foreground": "#C6D0F5"
 			}
@@ -1775,6 +1775,18 @@
 			"scope": "markup.italic.markdown",
 			"settings": {
 				"fontStyle": "normal"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag.tsx",
+				"entity.name.tag.jsx",
+				"support.class.component",
+				"entity.name.tag.other.tsx",
+				"entity.name.tag.other.jsx"
+			],
+			"settings": {
+				"foreground": "#cba6f7"
 			}
 		}
 	]
